@@ -22,19 +22,19 @@
     "url": "https://books.edwinclement08.com/",
     "icon": "https://favicons.githubusercontent.com/books.edwinclement08.com",
     "slug": "calibre-web-server",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 855,
-    "timeDay": 855,
-    "timeWeek": 855,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "44.42%",
+    "uptimeDay": "44.42%",
+    "uptimeWeek": "44.42%",
+    "uptimeMonth": "44.42%",
+    "uptimeYear": "44.42%",
+    "time": 900,
+    "timeDay": 900,
+    "timeWeek": 900,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {
-      "2021-11-26": 0
+      "2021-11-26": 35
     }
   }
 ]
