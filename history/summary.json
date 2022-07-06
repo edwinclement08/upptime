@@ -4,19 +4,19 @@
     "url": "https://pass.edwinclement08.com/",
     "icon": "https://favicons.githubusercontent.com/pass.edwinclement08.com",
     "slug": "password-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 767,
-    "timeDay": 750,
+    "timeDay": 756,
     "timeWeek": 768,
-    "timeMonth": 757,
+    "timeMonth": 758,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2022-07-06": 1
+      "2022-07-06": 12
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2022-07-06": 641,
+      "2022-07-06": 653,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
